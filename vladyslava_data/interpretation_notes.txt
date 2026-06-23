@@ -1,0 +1,4 @@
+Lowest mean valence: morning (0.618).
+Highest mean arousal: morning (0.464).
+Compare this with H1: lower valence at night, and H2: higher arousal in evening/night.
+Limitation: timestamps are UTC and may not represent each Reddit user's local time.

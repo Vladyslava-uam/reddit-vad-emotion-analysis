@@ -1,0 +1,5 @@
+Figure 1: Balanced sample of Reddit relationship_advice texts across four time-of-day groups.
+Figure 2: Mean valence by time of day. Lower values indicate more negative emotional tone.
+Figure 3: Mean arousal by time of day. Higher values indicate stronger emotional intensity.
+Figure 4: Mean emotional tone by time-of-day group, comparing valence and arousal.
+Figure 5: Scatter plot of valence and arousal scores by time-of-day group.
